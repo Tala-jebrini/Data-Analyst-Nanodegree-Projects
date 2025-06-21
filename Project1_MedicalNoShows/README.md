@@ -23,7 +23,7 @@ Investigate what factors (age, gender, SMS reminders, medical conditions, etc.) 
 - Patients with certain health conditions were more/less likely to attend.
 
 ## 📂 Files Included
-- `MedicalNoShows.ipynb`: Full analysis notebook  
-- `MedicalNoShows.html`: Exported notebook  
+- `Project1_MedicalNoShows.ipynb`: Full analysis notebook  
+- `Project1_MedicalNoShows.html`: Exported notebook  
 - `medical_appointment_no_shows.csv`: Original dataset
 
