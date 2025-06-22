@@ -17,4 +17,6 @@ The data was collected from two Kaggle sources using:
 ## 📈 Outcome
 The cleaned and structured data was used to analyze trends in book popularity and user ratings, forming the basis for a deeper comparative analysis.
 
-
+## 📂 Files Included
+- `Data_Wrangling_Project.ipynb`: Full analysis notebook  
+- `Data_Wrangling_Project.html`: Exported notebook  
