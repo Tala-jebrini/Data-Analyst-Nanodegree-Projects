@@ -20,4 +20,9 @@ The dataset is sourced from Kaggle and contains over 180,000 individual trip rec
 - Customers take longer rides, especially on weekends and midday.
 - Gender and program participation patterns reveal gaps in outreach and usage.
 
+## 📂 Files Included
+- `Part_I_exploration.ipynb`: Full analysis notebook  
+- `Part_I_exploration.html`: Exported notebook
+- `Part_II_explanatory.ipynb`: Full analysis notebook  
+- `Part_II_explanatory.html`: Exported notebook 
 
