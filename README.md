@@ -7,7 +7,7 @@ This repository showcases the projects I completed as part of the **Udacity Data
 ### 1. Medical Appointment No-Shows
 - **Goal**: Analyze factors affecting missed medical appointments.
 - **Skills Used**: Data wrangling, EDA, Matplotlib/Seaborn visualizations.
-- [View Notebook](https://colab.research.google.com/drive/16wsYWs2vvpCRPuWyWKzs59fgXHNpoFH7?usp=sharing) | [View HTML](link-to-html) | [View .ipynb](Project1_MedicalNoShows/Medical_No_Shows_Analysis.ipynb)
+- [View Notebook](https://colab.research.google.com/drive/16wsYWs2vvpCRPuWyWKzs59fgXHNpoFH7?usp=sharing) | [View HTML](link-to-html) | [View .ipynb](Project1_MedicalNoShows/Project1_MedicalNoShows.ipynb)
 
 ### 2. Book Review Data Wrangling
 - **Goal**: Gather, assess, and clean book review datasets.
