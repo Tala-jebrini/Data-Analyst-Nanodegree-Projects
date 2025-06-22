@@ -21,9 +21,9 @@ Analyzed February 2019 trip data from the San Francisco Bay Area to uncover tren
 - **Part 2 – Explanatory Visualizations:** Communicated key insights using clean, focused visualizations.
 
 🛠 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn  
-🔗 [Part 1 – EDA Notebook](https://colab.research.google.com/drive/1zVxy6fa_QyZH4ZZwuUaVArNG9hWnSL33?usp=sharing) | [View HTML](Project3_FordGoBike/Part_I_exploration.html) | [View .ipynb](Project3_FordGoBike/Part_I_exploration.ipynb)
+- [Part 1 – EDA Notebook](https://colab.research.google.com/drive/1zVxy6fa_QyZH4ZZwuUaVArNG9hWnSL33?usp=sharing) | [View HTML](Project3_FordGoBike/Part_I_exploration.html) | [View .ipynb](Project3_FordGoBike/Part_I_exploration.ipynb)
 
-🔗 [Part 2 – Presentation Notebook](https://colab.research.google.com/drive/1UUPwXIWei3SzaRoVNikWt70a-q8FctPj?usp=sharing) | [View HTML](Project3_FordGoBike/Part_II_explanatory.html) | [View .ipynb](Project3_FordGoBike/Part_II_explanatory.ipynb)
+- [Part 2 – Presentation Notebook](https://colab.research.google.com/drive/1UUPwXIWei3SzaRoVNikWt70a-q8FctPj?usp=sharing) | [View HTML](Project3_FordGoBike/Part_II_explanatory.html) | [View .ipynb](Project3_FordGoBike/Part_II_explanatory.ipynb)
 
 
 ---
